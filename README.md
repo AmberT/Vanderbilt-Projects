@@ -45,7 +45,7 @@ The machines on the internal network are not exposed to the public internet.
 Only the Jump-Box-Provisioner machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
 - 24.166.211.167
 
-Machines within the network can only be accessed by Web-1(10.0.0.6).
+Machines within the network can only be accessed by my host machine.
 
 A summary of the access policies in place can be found in the table below.
 
