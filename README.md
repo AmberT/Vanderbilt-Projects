@@ -5,7 +5,7 @@ These are the scripts I wrote and the network I built as a student in the Vander
 
 The files in this repository were used to configure the network depicted below.
 
-[https://github.com/AmberT/Vanderbilt-Projects/blob/main/Diagrams/Shanghai_Office.drawio]
+[Images/ELK_Net_Diagram]
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively , select portions of the Ansible file may be used to install only certain pieces of it, such as Filebeat.
 
@@ -69,7 +69,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running ‘docker ps’ after successfully configuring the ELK instance.
 
-(Images/docker_ps_Screenshot.png)
+[Images/docker_ps_Screenshot.png]
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
